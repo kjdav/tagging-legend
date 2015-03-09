@@ -380,7 +380,7 @@ Practice problems occur after worked examples within the flow of the section con
 
 ```html
 <section class="ost-reading-discard test-prep multiple-choice">
-  <title>Multiple Choice</title>
+  <title>Test Prep Multiple Choice</title>
   <exercise class="os-exercise">
     <problem>
       <para><a class="os-embed" href="..." /></para>
